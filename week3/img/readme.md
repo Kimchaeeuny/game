@@ -1,3 +1,6 @@
+## 3주차 예제 문제 실습하
+
+
 ### numberpre01(금액을 입력받고 정렬하기)
 ![image](https://github.com/Kimchaeeuny/game/assets/120534069/7c5660e3-405e-4084-91cd-ceb4fc26e550)
 
@@ -14,6 +17,7 @@
 ![image](https://github.com/Kimchaeeuny/game/assets/120534069/4a06b6b0-083b-4322-abdd-11b3392c64a8)
 
 ### slidebarmaker(슬라이드 바 속의 기호를 방향키로 움직일 수 있다)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/c24d058e-e3e8-4b37-8c28-b5222539ac44)
 ![image](https://github.com/Kimchaeeuny/game/assets/120534069/c816cfb0-10a7-47d1-9be3-08214de0f63f)
 
 ### tetris(테트리스 게임-화살표 키는 도형을 이동시키고, 스페이스 바는 도형을 회전시킨다)
