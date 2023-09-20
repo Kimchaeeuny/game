@@ -15,3 +15,6 @@
 
 ### slidebarmaker(슬라이드 바 속의 기호를 방향키로 움직일 수 있다)
 ![image](https://github.com/Kimchaeeuny/game/assets/120534069/c816cfb0-10a7-47d1-9be3-08214de0f63f)
+
+### tetris(테트리스 게임-화살표 키는 도형을 이동시키고, 스페이스 바는 도형을 회전시킨다)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/57faf079-cd58-4f05-800f-e7c796739491)
