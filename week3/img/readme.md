@@ -9,3 +9,9 @@
 
 ### numbersort_cursion(재귀를 이용하여 높은 단위, 낮은 단위로 출력)
 ![image](https://github.com/Kimchaeeuny/game/assets/120534069/3b4a0e73-d346-4aa4-900f-e1448b589a5d)
+
+### digitalnum(숫자를 입력받아 디지털로 출력(더 큰 숫자로 보이게))
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/4a06b6b0-083b-4322-abdd-11b3392c64a8)
+
+### slidebarmaker(슬라이드 바 속의 기호를 방향키로 움직일 수 있다)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/c816cfb0-10a7-47d1-9be3-08214de0f63f)
