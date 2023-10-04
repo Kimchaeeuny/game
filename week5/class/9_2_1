@@ -65,7 +65,7 @@ int sub_menu_display01(void)
     int select;
     system("cls");
     printf("레시피\n\n");
-    printf("1. 카르보나나라\n");
+    printf("1. 카르보나라\n");
     printf("2. 메인 메뉴로 이동\n\n");
     printf("메뉴번호 입력>");
     select=getch()-48;
