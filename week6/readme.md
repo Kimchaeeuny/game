@@ -1,11 +1,14 @@
 ## 음계 맞추기 게임
 
 ### 메인 화면
-![image](https://github.com/Kimchaeeuny/game/assets/120534069/fd7ad2d7-a413-4967-acf2-79688c54a81c)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/370680ec-23e5-4c29-9d0f-acff07532e48)
+
 
 ### 틀렸을 시
-![image](https://github.com/Kimchaeeuny/game/assets/120534069/23e5b209-c9e1-490c-b4ad-8cb8e07e1a59)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/d0c30fdf-cbee-4d4f-9f60-8f9a0f9f5cd1)
+
 
 ### 맞았을 시
-![image](https://github.com/Kimchaeeuny/game/assets/120534069/9889871a-189c-4fdb-95c3-65223c3b62f2)
+![image](https://github.com/Kimchaeeuny/game/assets/120534069/240377e2-5c6c-47ea-bc85-c708ff56f4ae)
+
 
