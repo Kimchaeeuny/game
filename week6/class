@@ -11,6 +11,7 @@ void display_piano_keyboard(void);
 void touch_keyboard(int code);
 void display_manual(void);
 void practice_piano_game(void);
+void setColor(int textcolor, int bgcolor);
 int calc_frequency(int octave, int inx);  //음계의 주파수 계산
 
 int main(void)
@@ -22,10 +23,12 @@ int main(void)
 
 void display_manual(void)
 {
+	setColor(12, 0); 
 	printf("<음계 맞추기 게임>\n");
 	printf("랜덤으로 들려오는 음을 잘 듣고\n");
     printf("해당하는 건반 번호를 눌러주세요.\n");
     printf("프로그램 종료는 Esc 키 입니다.\n");
+    setColor(7, 0);
 }
 
 void practice_piano_game(void)
@@ -56,7 +59,9 @@ void practice_piano_game(void)
 		    display_piano_keyboard(); //화면에 건반표시
 		    if(random_note == index[code])
 		    {
-		        printf("\n\n\n정답입니다!\n");
+		        setColor(0, 15);
+				printf("\n\n\n정답입니다!\n");
+				setColor(7, 0);
 		        break;
 			}
 			else
@@ -70,6 +75,12 @@ void practice_piano_game(void)
 	
 	printf("\n게임을 종료합니다.\n");
 }
+
+void setColor(int textcolor, int bgcolor) {
+    HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(hConsole, (bgcolor << 4) | textcolor);
+}
+
 void draw_check02(int c, int r)
 {
     int i, j;
@@ -137,6 +148,7 @@ void display_piano_keyboard(void)
 		printf("%s", code[i]);
 	}
 }
+
 void touch_keyboard(int code)
 {
 	gotoxy(3+code*4,8);
